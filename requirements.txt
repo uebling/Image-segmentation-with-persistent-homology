@@ -7,3 +7,4 @@ ipywidgets==7.6.3
 scipy==1.6.2
 ipython==7.24.1
 Pillow==8.2.0
+voila
