@@ -1,0 +1,9 @@
+opencv_python_headless==4.5.1.48
+ripser==0.6.0
+persim==0.3.0
+matplotlib==3.3.4
+numpy==1.20.2
+ipywidgets==7.6.3
+scipy==1.6.2
+ipython==7.24.1
+Pillow==8.2.0
